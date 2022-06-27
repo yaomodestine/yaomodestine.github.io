@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## Metavers
 
-You can use the [editor on GitHub](https://github.com/yaomodestine/yaomodestine.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Un métavers (calque de l'anglais metaverse) est un monde virtuel. Le terme est régulièrement utilisé pour décrire une version future d'Internet où des espaces virtuels, persistants et partagés sont accessibles via interaction 3D ou 2D en visioconférence.
+Une autre définition conçoit le métavers comme l'ensemble des mondes virtuels connectés à Internet, lesquels sont perçus en réalité augmentée3.
+Historique
+Le terme de « métavers » est issu de la contraction de meta et universe. Le métavers est donc un méta-univers, ou un univers qui va au-delà de celui que nous connaissons. Il s'agit donc d'un monde virtuel.
+Ce concept a été décrit la première fois dans le roman Simulacres de Philip K. Dick en 1964 et Simulacron 3 de Daniel Galouye, paru aux États-Unis en 1964 (en France en 1968) et mis à l'écran par Rainer Werner Fassbinder en 1973 dans Le Monde sur le fil, puis repris dans Le Samouraï virtuel, paru en 1992, de Neal Stephenson, qui invente le terme de « métavers ».
+La première grande application du principe du métavers est le Jeu en ligne massivement multijoueur « Second Life », créé en 2003. Ce jeu gratuit permettait à ses utilisateurs d'incarner des personnages virtuels dans un monde créé par les résidents eux-mêmes, et il a fait l'objet d'un certain effet de mode entre 2003 et 2007, avant de connaître un désinvestissement progressif autant des consommateurs que des entreprises qui y avaient investi.
+Si le jeu en ligne massivement multijoueur est demeuré une catégorie florissante du jeu vidéo, aucun « jeu sandbox » aussi ouvert n'a plus jamais connu le succès.
+Le 28 octobre 2021, Mark Zuckerberg annonce officiellement que Facebook est rebaptisée « Meta », et dédiera une large part de son activité à l'élaboration d'un métavers, baptisé « Horizon Worlds ». Cette réorientation, qui a coûté plus de 13 milliards de dollars à l'entreprise en quinze mois, est considéré comme extrêmement risqué par les spécialistes du secteur : ainsi, selon l’économiste espagnol Manuel Hidalgo, interrogé par El Pais, « Auparavant quelqu’un créait une technologie, comme le moteur à combustion, et une fois qu’elle était viable, des produits voyaient le jour, comme la voiture. Avec le métavers, la situation est inversée : l’idée est promue et lorsque les commerçants y investissent on la développe ».
+SumOfUs, une ONG américaine, a présenté un témoignage d'une agression sexuelle qui aurait eu lieu dans le Métavers9.
+Conceptions de Neal Stephenson[modifier |
+Pour citer Neal Stephenson, « Les mots "avatar" (...) et "Métavers" sont de ma propre invention, et je les ai choisis après avoir décidé que les expressions existantes ("réalité virtuelle", par exemple) étaient inadéquates. » Le Samouraï virtuel fournit un exemple unique de cas d'utilisation d'un métavers.
+Cryptomonnaie dans le Metavers 
+Étant une reconstruction du monde réel, le Metavers possède une devise unique permettant à ses utilisateurs de faire des transactions. Cet argent virtuel permet de faire des achats et des ventes d’une multitude d’objets comme des vêtements, des accessoires, de l’immobilier, etc. L'achat d'article dans ce monde virtuel permettrait d'avoir un vrai aperçu d’un futur achat sans même avoir à se déplacer. Le Metavers serait composé de «digital twins» de ces locations, ces vêtements, ces meubles et ces magasins déjà existants dans le monde réel. Ce type de devise se nomme la cryptomonnaie et chaque Vers possède sa propre monnaie. Pour une grande partie des développeurs et investisseurs, le Metavers et la cryptomonnaie sont liés et feront partie du Web 3D . Le cœur des deux concepts repose sur la Blockchain, un registre numérique public qui conserve les données des transactions. La blockchain est le parfait outil afin d’obtenir une très rapide confirmation de l'information et des transactions bien sécurisées. 
+ 
+Cryptomonnaies
+Les cryptomonnaies de Vers les plus connus sont la crypto-MANA dans Decentraland et la crypto-SAND dans Sandbox. Chacune de ces monnaies ont des caractéristiques uniques qui les différencient des autres. Par exemple, la devise MANA est utilisée pour les transactions individuelles et permet de générer une propriété virtuelle sur l’Euthereum Blockchain. Le Vers Sandbox est plutôt axé sur la création alors que sa crypto-SAND permet surtout de créer, construire, et acheter des actifs numériques comme les NFTs. 
+NFT 
+L’univers du Métavers a bouleversé le système économique. Au début de l'année 2022, sa capitalisation totalise 30 milliards d’euros. Environ 3,5 millions d’utilisateurs utilisent la finance décentralisée du monde virtuel, dont 400 000 qui se sont initiés aux NFT. L’objectif de créer un univers numérique parallèle semble être est en train de se réaliser. Le jeton non fongible (NFT) est une pièce unique qui n’est pas interchangeable. C’est un fichier auquel un certificat numérique d’authentification a été associé. Ce dernier peut prendre plusieurs formes, tel qu’une peinture digitale, une vidéo, une photographie ou bien un film. Lors de l'achat d'un NFT, on prend possession de la propriété exclusive de l’œuvre unique émis par la Blockchain Ethereum. Les NFT sont achetés et vendus comme des œuvres d’art physiques à travers le monde.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Quelques exemples de jetons non fongibles vendus à des prix importants :
+ 
+Logo NFT
+•	11 mars 2021, l'œuvre « Everydays : the First 5000 Days », de l'artiste américain Beeple, s'est vendu à 63,9 millions de dollars sur la plateforme Christie
+•	Entre le 2 et le 4 décembre 2021, l'œuvre « The Merge », s'est vendu à 91,8 millions de dollars sur la plateforme Nifty Gateway
+•	28 octobre 2021, l'œuvre « Human One », de l'artiste américain Beeple, s'est vendu à 28,9 millions de dollars sur la plateforme Christie17
+•	10 juin 2021, l'œuvre «CryptoPunk #7523 », de l'artiste Larva Labs s'est vendu 11,75 millions de dollars
+Applications 
+La majeure partie du travail pionnier de création d'un métavers est venue de la communauté du jeu.
+•	Créé en 1985 et sorti en version beta l'année suivante, le jeu Habitat est sans doute le premier environnement multi-joueurs, lancé par Lucas Arts sur Commodore 64, en partenariat avec America Online. Les participants y étaient représentés par des avatars évoluant dans un monde virtuel.
+•	En 1993, Steve Jackson Games a lancé un MMO (un système de réalité virtuelle basé sur du texte et à faible consommation de bande passante) appelé The Metaverse et intégré à leur système online de BBS Illuminati Online. Plusieurs autres éditeurs de jeux y ont ouvert des commerces virtuels, préfigurant l'engouement commercial et immobilier que connaîtront d'autres logiciels des années 2000.
+•	Au milieu des années 1990, SenseMedia a créé un MMO appelé SnowMOO. Le monde était inspiré de Snow Crash et correspondait à une mise en œuvre d'un métavers basé sur du texte. SenseMedia a aussi lancé ChibaMOO (aussi appelé The Sprawl) qui était inspiré de la littérature Cyberpunk de William Gibson mais qui prenait lui aussi la forme d'un métavers basé sur du texte.
+•	Active Worlds, qui était entièrement inspiré de Snow Crash, a rendu populaire le projet de créer un métavers en 1997 en diffusant des mondes de réalité virtuelle capables de mettre en application le concept du métavers.
+•	Toujours en 1997, Canal+ Multimedia et Cryo ont proposé Le Deuxième Monde, un environnement virtuel souvent présenté comme un des précurseurs de Second Life.
+•	Second Life est le pionnier d'une plateforme sociale et économique basée sur un système de micropaiement où les utilisateurs ont la propriété intellectuelle de leurs créations, et sont libres de construire eux-mêmes leurs espaces et leurs communautés.
+•	Google Earth arrive depuis le secteur du Système d'Information Géographique et de l'imagerie satellite pour construire une structure virtuelle par-dessus les données du monde réel (comme Downtown Tokyo, par exemple  
+•	Le Croquet project (en) s'appuie sur la métaphore du métavers pour créer une forme de système d'exploitation, qui a été conçu pour profiter de la puissance croissante des ordinateurs modernes.
+•	Vircadia est un métavers open source, décentralisé et gratuit ou les utilisateurs peuvent héberger leurs propre serveurs.  
+On peut même rattacher à cette catégorie certaines avancées 2D des réseaux sociaux. Par exemple, la structure de type mesh networking qui sous-tend le projet One Laptop per Child et son interface Sugar, établit une interface d'ordinateur de bureau à partir des principes de la connectivité sociale.
+Le 28 octobre 2021, Meta (précédemment nommé Facebook) lance son métavers Horizon Worlds.
+Aujourd'hui, la prolifération de ces métavers amène à se questionner sur leur encadrement juridique, notamment au regard de la gestion des données et de la propriété intellectuelle dans ces mondes virtuels.
+Web3 
+Un des thèmes récurrents est qu'un métavers conduira au 3D Web. The Metaverse Roadmap Summit en 2006 a publié un rapport détaillé, leur feuille de route pour le métavers.
+Virtual Real Worlds de MellaniuM Design et Tele3DWorld se consacre à la création d'environnements réalistes 3D pour toutes sortes d'applications. Metaverse peut être divisé en deux types de plateformes différents. La première consiste à créer un métavers blockchain, à l'aide de crypto-monnaies et de jetons non fongibles qui permettront aux gens d'acheter des parcelles de terrain virtuelles, puis de construire leur environnement. L'autre plateforme, comme celle de Facebook, peut utiliser le métavers pour créer un monde virtuel où les gens pourront se rencontrer pour leurs consultations commerciale. Dans le même prolongement, Carrefour investit dans le numérique et s'associe à Facebook (Meta)27 et Microsoft adapte sa plateforme Microsoft Azure Digital Twins aux applications de metavers pour le BtoB28.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yaomodestine/yaomodestine.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
